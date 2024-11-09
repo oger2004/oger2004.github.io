@@ -1,7 +1,6 @@
 The user of the website could be a RRHH recruiter loking for a Software Developer in a enterprise.
 
 
-
 Visual Design:
 To enhance user navigation and provide a smooth browsing experience, a navigation bar is positioned at the top of the website in the About Me section. This navigation bar allows users to quickly access different sections of the page, making it easier to jump to specific content without having to scroll excessively. It improves accessibility for users to explore the website's content.
 
@@ -32,3 +31,4 @@ The rest of the sections are displayed correctly and adapt to the viewport beaca
 
 
 Figma Project: https://www.figma.com/design/qEkcJbdj6ieQkgVvxnlWdj/EstilCurriculum?node-id=0-1&t=U4reNakwL2geMqkD-1
+The public link to the web site is this one: https://oger2004.github.io.
