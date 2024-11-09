@@ -6,9 +6,9 @@ To enhance user navigation and provide a smooth browsing experience, a navigatio
 
 The CV structure it's quite simple, it contains 4 sections, About Me, Projects, Experience and Skills. 
 
-In the Projects section, users will find four images, each representing a different project. When the user passes their mouse over a project image, additional details about the project are revealed. In the back of the image we have the project title, a brief description, and a link to the project’s GitHub repository. Users can preview the project’s scope and functionality and, if interested, follow the link to view the source code or learn more.
+In the Projects section, users will find four images, each representing a different project. When the user passes their mouse over a project image, additional details about the project are revealed. In the back of the image we have the project title, a brief description, and a link to the project’s GitHub repository.
 
-The Experience section is divided into two distinct sections (divs), each providing an overview of the responsibilities and tasks in different professional roles. This part allows visitors to know my work experience, showing practical skills and expertise developed over time.
+The Experience section is divided into two distinct sections (divs), each providing an overview of the responsibilities and tasks in different professional roles. This part allows visitors to know my work experience.
 
 Finally, the Skills section highlights the programming languages and tools I know, represented by percentages to indicate my level domain I have. This representation allows users to quickly see my technical abilities and strengths in various languages and technologies, giving them an easy understanding of my skills.
 
@@ -19,7 +19,7 @@ At the bottom of the website there's a footer with the icons of my social media 
 Information Architecture:
 The body website is centered in the viewport with a max-width of 900px, this way it's easier to make the website responsive and we don't have space without anything this way every section of the web has it's utility and the content can be well distributed in a easier way.
 
-Inside the body every section have a width of 80% and it's centered on the body.
+Inside the body every section have a width of 80% and it's centered.
 
 The basic color of the body is #22222, the rest of the viewport have the same color but with opacity #222222f7. There are also two secondary colors the pink #E31B6D used in the backgorund-color of the links at the projects section, also in the box-shadow of the social media icons, and for the lines at the skills. The violet #7510f7 is the other color used only in the backgroung of the image.
 
