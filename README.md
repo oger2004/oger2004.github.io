@@ -31,4 +31,5 @@ The rest of the sections are displayed correctly and adapt to the viewport beaca
 
 
 Figma Project: https://www.figma.com/design/qEkcJbdj6ieQkgVvxnlWdj/EstilCurriculum?node-id=0-1&t=U4reNakwL2geMqkD-1
+
 The public link to the web site is this one: https://oger2004.github.io.
