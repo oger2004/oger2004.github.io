@@ -23,7 +23,7 @@ Inside the body every section have a width of 80% and it's centered on the body.
 
 The basic color of the body is #22222, the rest of the viewport have the same color but with opacity #222222f7. There are also two secondary colors the pink #E31B6D used in the backgorund-color of the links at the projects section, also in the box-shadow of the social media icons, and for the lines at the skills. The violet #7510f7 is the other color used only in the backgroung of the image.
 
-The font used in the CV is Open Sans for every paragraph (<p>) and link (<a>) and for the titles (<h1>, <h2>, <h3>) is used Nunito Sans.
+The font used in the CV is Open Sans for every paragraph (p) and link (a) and for the titles (h1, h2, h3) is used Nunito Sans.
 
 The web is responsive, for example the projects have a display: grid; if the width of the device is reduced and the projects don't fit they will be displayed one after the other in a column.
 
